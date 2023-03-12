@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_all_friends_text.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_bebas_selection.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_blue_upcoming_bookings_tri.xml" value="0.306" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_booking_info.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_daily_recs_image.xml" value="0.1815" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_distance_button.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_faded_bg_you.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_faqs_full_size.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_faqs_fullsize.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_faqs_fullsize_ratio.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_food_bottom_stills.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_food_text.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_food_top_stills.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_fun_button.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_fun_filter.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_no_1.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_no_1_lp.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_no_2.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_price_filter.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_restaurant_stills.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_settings_fragment_info.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_star_button.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_thumb.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_vector.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_wait_button.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/ic_white_distance.xml" value="0.281" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/image_border.xml" value="0.274" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/switch_bg_track.xml" value="0.259" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/drawable/switch_thumb_track.xml" value="0.148" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/activity_person_page.xml" value="0.264" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/bookings_card_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/card_theme.xml" value="0.3" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/daily_rec_cards.xml" value="0.365625" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/food_filters.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/food_items.xml" value="0.365625" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/fragment_booking.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/fragment_booking1_button.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/fragment_booking2_button.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/fragment_dashboard.xml" value="0.2817028985507246" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/fragment_faqs.xml" value="0.264" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/fragment_food.xml" value="0.4" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/fragment_friends.xml" value="0.264" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/fragment_settings.xml" value="0.264" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/fragment_settings_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/fragment_you.xml" value="0.4" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/upcoming_bkgs_cardview.xml" value="0.536" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/layout/you_upcoming_bookings.xml" value="0.23867753623188406" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/menu/bottom_nav_menu.xml" value="0.264" />
+        <entry key="..\:/Users/sroy13/AndroidStudioProjects/MyAppTest/app/src/main/res/xml/networksecurityconfig.xml" value="0.14635416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
